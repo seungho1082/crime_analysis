@@ -300,8 +300,6 @@ Chungcheongnam_total
 # In[22]:
 
 
-# 에러
-# 해결 정민님 감사합니다!!
 # 충북 가로등 폴더에 있는 모든 csv 파일을 불러옴
 Chungcheongbuk_files = glob('./충북 가로등/*.csv')
 
